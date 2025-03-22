@@ -10,7 +10,7 @@ public class Main {
 		int n = sc.nextInt();
 		int mat[][] = new int[n][n];
 		mat[0][1] = sc.nextInt();
-		System.out.println(mat[0][1]);
+		System.out.println("Olá mundo");
 		sc.close();
 	}
 
